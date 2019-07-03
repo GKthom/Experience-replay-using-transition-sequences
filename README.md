@@ -1,6 +1,6 @@
 # Project Title
 
-Experience replay using transition sequences. The code corresponds to the method described in the paper: https://arxiv.org/abs/1705.10834
+Experience replay using transition sequences. The code corresponds to the method described in the paper: https://www.frontiersin.org/articles/10.3389/fnbot.2018.00032/full
 
 ## Getting Started
 
